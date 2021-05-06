@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Nodes>
+<Node>	<ID>1</ID>	<x>0</x>	<y>0</y>	</Node>
+<Node>	<ID>2</ID>	<x>0</x>	<y>28</y>	</Node>
+<Node>	<ID>3</ID>	<x>10</x>	<y>0</y>	</Node>
+<Node>	<ID>4</ID>	<x>20</x>	<y>0</y>	</Node>
+<Node>	<ID>5</ID>	<x>10</x>	<y>14</y>	</Node>
+<Node>	<ID>6</ID>	<x>20</x>	<y>14</y>	</Node>
+<Node>	<ID>7</ID>	<x>10</x>	<y>28</y>	</Node>
+<Node>	<ID>8</ID>	<x>20</x>	<y>28</y>	</Node>
+<Node>	<ID>9</ID>	<x>10</x>	<y>45</y>	</Node>
+<Node>	<ID>10</ID>	<x>20</x>	<y>45</y>	</Node>
+<Node>	<ID>11</ID>	<x>30</x>	<y>30</y>	</Node>
+<Node>	<ID>12</ID>	<x>40</x>	<y>32</y>	</Node>
+<Node>	<ID>13</ID>	<x>50</x>	<y>34</y>	</Node>
+<Node>	<ID>14</ID>	<x>60</x>	<y>36</y>	</Node>
+<Node>	<ID>15</ID>	<x>70</x>	<y>38</y>	</Node>
+<Node>	<ID>16</ID>	<x>30</x>	<y>44</y>	</Node>
+<Node>	<ID>17</ID>	<x>40</x>	<y>43</y>	</Node>
+<Node>	<ID>18</ID>	<x>50</x>	<y>42</y>	</Node>
+<Node>	<ID>19</ID>	<x>60</x>	<y>41</y>	</Node>
+<Node>	<ID>20</ID>	<x>70</x>	<y>40</y>	</Node>
+</Nodes>

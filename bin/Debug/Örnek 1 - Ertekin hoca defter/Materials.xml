@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Materials>
+  <Materials>
+    <ID>1</ID>
+    <Name>Default</Name>
+    <Ai>0.0015</Ai>
+    <Ei>20000000</Ei>
+  </Materials>
+</Materials>

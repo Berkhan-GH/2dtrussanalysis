@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Loads>
+<Load>	<ID>1</ID>	<Node_x0020_ID>2</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-20</y>	</Load>
+<Load>	<ID>2</ID>	<Node_x0020_ID>9</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>3</ID>	<Node_x0020_ID>10</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>4</ID>	<Node_x0020_ID>16</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>5</ID>	<Node_x0020_ID>17</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>6</ID>	<Node_x0020_ID>18</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>7</ID>	<Node_x0020_ID>19</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-40</y>	</Load>
+<Load>	<ID>8</ID>	<Node_x0020_ID>20</Node_x0020_ID>	<Class_x0020_ID>1</Class_x0020_ID>	<x>0</x>	<y>-20</y>	</Load>
+</Loads>

@@ -1,0 +1,12 @@
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\bin\Debug\BMSM.exe.config
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\bin\Debug\BMSM.exe
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\bin\Debug\BMSM.pdb
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.csprojAssemblyReference.cache
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.Main.resources
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.Properties.Resources.resources
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.csproj.GenerateResource.cache
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.csproj.CoreCompileInputs.cache
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.exe
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.pdb
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.Analysis.resources
+C:\Users\berkh\Documents\Visual Studio 2019\Projects\BMSM\BMSM\obj\Debug\BMSM.Calculation.resources

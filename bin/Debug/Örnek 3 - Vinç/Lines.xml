@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<Lines>
+<Line>	<ID>1</ID>	<Material>1</Material>	<Start>1</Start>	<End>2</End>	</Line>
+<Line>	<ID>2</ID>	<Material>1</Material>	<Start>2</Start>	<End>7</End>	</Line>
+<Line>	<ID>3</ID>	<Material>1</Material>	<Start>2</Start>	<End>9</End>	</Line>
+<Line>	<ID>4</ID>	<Material>1</Material>	<Start>3</Start>	<End>5</End>	</Line>
+<Line>	<ID>5</ID>	<Material>1</Material>	<Start>4</Start>	<End>6</End>	</Line>
+<Line>	<ID>6</ID>	<Material>1</Material>	<Start>5</Start>	<End>7</End>	</Line>
+<Line>	<ID>7</ID>	<Material>1</Material>	<Start>6</Start>	<End>8</End>	</Line>
+<Line>	<ID>8</ID>	<Material>1</Material>	<Start>7</Start>	<End>9</End>	</Line>
+<Line>	<ID>9</ID>	<Material>1</Material>	<Start>8</Start>	<End>10</End>	</Line>
+<Line>	<ID>10</ID>	<Material>1</Material>	<Start>3</Start>	<End>6</End>	</Line>
+<Line>	<ID>11</ID>	<Material>1</Material>	<Start>4</Start>	<End>5</End>	</Line>
+<Line>	<ID>12</ID>	<Material>1</Material>	<Start>5</Start>	<End>8</End>	</Line>
+<Line>	<ID>13</ID>	<Material>1</Material>	<Start>6</Start>	<End>7</End>	</Line>
+<Line>	<ID>14</ID>	<Material>1</Material>	<Start>7</Start>	<End>10</End>	</Line>
+<Line>	<ID>15</ID>	<Material>1</Material>	<Start>8</Start>	<End>9</End>	</Line>
+<Line>	<ID>16</ID>	<Material>1</Material>	<Start>5</Start>	<End>6</End>	</Line>
+<Line>	<ID>17</ID>	<Material>1</Material>	<Start>7</Start>	<End>8</End>	</Line>
+<Line>	<ID>18</ID>	<Material>1</Material>	<Start>9</Start>	<End>10</End>	</Line>
+<Line>	<ID>19</ID>	<Material>1</Material>	<Start>8</Start>	<End>11</End>	</Line>
+<Line>	<ID>20</ID>	<Material>1</Material>	<Start>11</Start>	<End>12</End>	</Line>
+<Line>	<ID>21</ID>	<Material>1</Material>	<Start>12</Start>	<End>13</End>	</Line>
+<Line>	<ID>22</ID>	<Material>1</Material>	<Start>13</Start>	<End>14</End>	</Line>
+<Line>	<ID>23</ID>	<Material>1</Material>	<Start>14</Start>	<End>15</End>	</Line>
+<Line>	<ID>24</ID>	<Material>1</Material>	<Start>11</Start>	<End>10</End>	</Line>
+<Line>	<ID>25</ID>	<Material>1</Material>	<Start>12</Start>	<End>16</End>	</Line>
+<Line>	<ID>26</ID>	<Material>1</Material>	<Start>13</Start>	<End>17</End>	</Line>
+<Line>	<ID>27</ID>	<Material>1</Material>	<Start>14</Start>	<End>18</End>	</Line>
+<Line>	<ID>28</ID>	<Material>1</Material>	<Start>15</Start>	<End>19</End>	</Line>
+<Line>	<ID>29</ID>	<Material>1</Material>	<Start>11</Start>	<End>16</End>	</Line>
+<Line>	<ID>30</ID>	<Material>1</Material>	<Start>12</Start>	<End>17</End>	</Line>
+<Line>	<ID>31</ID>	<Material>1</Material>	<Start>13</Start>	<End>18</End>	</Line>
+<Line>	<ID>32</ID>	<Material>1</Material>	<Start>14</Start>	<End>19</End>	</Line>
+<Line>	<ID>33</ID>	<Material>1</Material>	<Start>15</Start>	<End>20</End>	</Line>
+<Line>	<ID>34</ID>	<Material>1</Material>	<Start>10</Start>	<End>16</End>	</Line>
+<Line>	<ID>35</ID>	<Material>1</Material>	<Start>16</Start>	<End>17</End>	</Line>
+<Line>	<ID>36</ID>	<Material>1</Material>	<Start>17</Start>	<End>18</End>	</Line>
+<Line>	<ID>37</ID>	<Material>1</Material>	<Start>18</Start>	<End>19</End>	</Line>
+<Line>	<ID>38</ID>	<Material>1</Material>	<Start>19</Start>	<End>20</End>	</Line>
+</Lines>

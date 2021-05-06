@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<Supports>
+  <Support>
+    <ID>1</ID>
+    <Node>1</Node>
+    <Type>1</Type>
+    <xLock>True</xLock>
+    <yLock>True</yLock>
+  </Support>
+  <Support>
+    <ID>2</ID>
+    <Node>2</Node>
+    <Type>1</Type>
+    <xLock>False</xLock>
+    <yLock>True</yLock>
+  </Support>
+</Supports>

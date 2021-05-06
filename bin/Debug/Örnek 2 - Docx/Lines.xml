@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<Lines>
+  <Line>
+    <ID>1</ID>
+    <Material>3</Material>
+    <Start>1</Start>
+    <End>2</End>
+  </Line>
+  <Line>
+    <ID>2</ID>
+    <Material>3</Material>
+    <Start>2</Start>
+    <End>3</End>
+  </Line>
+  <Line>
+    <ID>3</ID>
+    <Material>3</Material>
+    <Start>3</Start>
+    <End>4</End>
+  </Line>
+  <Line>
+    <ID>4</ID>
+    <Material>3</Material>
+    <Start>1</Start>
+    <End>4</End>
+  </Line>
+  <Line>
+    <ID>5</ID>
+    <Material>3</Material>
+    <Start>1</Start>
+    <End>3</End>
+  </Line>
+  <Line>
+    <ID>6</ID>
+    <Material>3</Material>
+    <Start>2</Start>
+    <End>4</End>
+  </Line>
+</Lines>

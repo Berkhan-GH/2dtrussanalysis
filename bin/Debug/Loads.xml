@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<Loads>
+  <Load>
+    <ID>1</ID>
+    <Node_x0020_ID>2</Node_x0020_ID>
+    <Class_x0020_ID>1</Class_x0020_ID>
+    <x>6</x>
+    <y>0</y>
+  </Load>
+  <Load>
+    <ID>2</ID>
+    <Node_x0020_ID>3</Node_x0020_ID>
+    <Class_x0020_ID>1</Class_x0020_ID>
+    <x>0</x>
+    <y>-8</y>
+  </Load>
+</Loads>

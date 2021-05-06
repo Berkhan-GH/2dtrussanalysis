@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Nodes>
+  <Node>
+    <ID>1</ID>
+    <x>0</x>
+    <y>3</y>
+  </Node>
+  <Node>
+    <ID>2</ID>
+    <x>4</x>
+    <y>0</y>
+  </Node>
+  <Node>
+    <ID>3</ID>
+    <x>8</x>
+    <y>3</y>
+  </Node>
+  <Node>
+    <ID>4</ID>
+    <x>4</x>
+    <y>3</y>
+  </Node>
+</Nodes>
